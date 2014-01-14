@@ -1,0 +1,98 @@
+body, html {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: 'Abel', sans-serif;
+	vertical-align: top;
+}
+
+
+.header {
+	background-image: url("headerbkgd.png");
+	background-repeat: repeat-x;
+	height: 60px;
+}
+
+.container {
+width: 960px;
+margin: auto;
+position: relative;	
+}
+
+.logo {
+	margin-top: 1px;
+	height: 59px;
+	display: inline-block;
+}
+
+.logor {
+	position: absolute;
+	right: 0px;
+}
+
+.link {
+	height: 60px;
+	color: #fff;
+	font-size: 16px;
+	line-height: 50px;
+	padding-left: 20px;
+	position: relative; top: -25px;
+	display: inline-block;
+}
+
+.banner {
+	background: #fff;
+	border-bottom: 1px solid gray;
+}
+
+.seccontainer {
+	width: 960px;
+	height: 80px;
+	position: relative;
+	margin: auto;
+}
+
+.topstmt {
+	font-size: 35px;
+	position: relative; top: 15px;
+
+}
+
+.main {
+	background: #F2F0EC;
+	position: relative;
+
+}
+
+.maincontent {
+	position: relative;
+	margin: 0 auto;
+	width: 960px;
+	height: 600px;
+}
+
+.mainphoto {
+	position: absolute;
+	top: 30px;
+	width: 540px;
+	height: 350px;
+}
+
+.mainphoinfo {
+	position: absolute;
+	bottom: 140px;
+	width: 540px;
+	height: 80px;
+	background-color: gray;
+}
+
+.message {
+	background-color: #F2F0EC;
+	color: #fff;
+	position: absolute;
+	bottom: 200px;
+	width: 100px;
+	height: 40px;
+}
