@@ -96,3 +96,215 @@ position: relative;
 	width: 100px;
 	height: 40px;
 }
+
+.mob {
+	top: 30px;
+	background-color: gray;
+	color: #fff;
+	width: 173px;
+	height: 140px;
+	display: inline-block;
+	position: relative;
+	left: 570px;
+	margin-left: 20px;
+	text-align: center;
+}
+
+.mtx {
+	top: 171px;
+	background-color: gray;
+	color: #fff;
+	width: 173px;
+	height: 40px;
+	display: inline-block;
+	position: relative;
+	left: 176px;
+	margin-left: 20px;
+	text-align: center;
+}
+
+.join { 
+	width: 369px;
+	position: relative;
+	top: 106px;
+	left: 591px;
+	background: gray;
+	border-radius: 4px;
+	height: 70px;
+	z-index: 2;
+
+}
+
+.medalbox {
+	width: 350px;
+	position: relative;
+	top: 100px;
+	background: #fff;
+	border-radius: 4px;
+	height: 90px;
+	left: 600px;
+	z-index: 1;
+	border: 1px solid gray;
+}
+
+.medal {
+	margin-top: 15px;
+	margin-left: 5px;
+	width: 280px;
+	height: 65px;
+
+}
+
+.disjoin {
+	position: relative;
+	width: 369px;
+	top: 103px;
+	border-bottom: 1px solid gray;
+	left: 590px;
+	text-align: center;
+}
+
+.handle {
+	width: 369px;
+	position: relative;
+	height: 50px;
+	left: 592px;
+	top: 133px;
+}
+
+.handles {
+	width: 369px
+
+}
+
+.dis { 
+	position: relative;
+	height: 50px;
+	left: 20px;
+	top: 70px;
+	width: 500px;
+}
+
+.transbar {
+	top: -416px;
+	position: relative;
+	background-color: rgba(0, 0, 0, 0.61);
+	width: 530px;
+	color: white;
+	font-size: 36;
+	padding-left: 10px;
+	padding-top: 10px;
+}
+
+.sec {
+	background: #fff;
+	position: relative;
+}
+
+.seccontent {
+	position: relative;
+	margin: 0 auto;
+	width: 960px;
+	height: 600px;
+
+}
+
+.photobox {
+	height: 300px;	
+	border-bottom: 1px solid black;
+}
+
+.smphoto {
+	width: 297px;
+	height: 200px;
+	margin: 10px;
+	position: relative;
+	top: -300px;
+}
+
+.txtp { 
+	width: 297px;
+	height: 64px;
+	margin: 10px;
+	position: relative;
+	top: -327px;
+}
+
+.seccontent2 {
+	position: relative;
+	top: -250px;
+}
+
+.upcoming {
+	position: relative;
+	top: -45px;
+	left: 0px;
+	font-size: 50px;
+	margin-bottom: -40px;
+}
+
+.rowfirst { 
+	list-style: none;
+	border-bottom: 1px solid black;
+	width: 650px;
+}
+
+.row1 {
+	padding-right: 70px;
+	margin-bottom: 5px;
+	display: inline-block;
+
+}
+
+.rowsecond { 
+	list-style: none;
+	border-bottom: 1px solid black;
+	width: 650px;
+}
+
+.row2 {
+	padding-right: 70px;
+	margin-bottom: 5px;
+	display: inline-block;
+
+}
+
+.rowthird { 
+	list-style: none;
+	border-bottom: 1px solid black;
+	width: 650px;
+}
+
+.row3 {
+	padding-right: 70px;
+	margin-bottom: 5px;
+	display: inline-block;
+
+}
+
+.rowfourth { 
+	list-style: none;
+	border-bottom: 1px solid black;
+	width: 650px;
+}
+
+.row4 {
+	padding-right: 70px;
+	margin-bottom: 5px;
+	display: inline-block;
+
+}
+
+.finalchart {
+	width: 250px;
+	height: 165px;
+
+}
+
+.chart {
+	width: 250px;
+position: relative;
+height: 165px;
+top: -180px;
+left: 722px;
+}
